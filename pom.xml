@@ -70,6 +70,22 @@
             <version>3.5.3</version>
         </dependency>
 
+        <dependency>
+            <groupId>jep</groupId>
+            <artifactId>jep-java</artifactId>
+            <version>3.5-trial</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/jep/jep -->
+        <dependency>
+            <groupId>jep</groupId>
+            <artifactId>jep</artifactId>
+            <version>2.24</version>
+        </dependency>
+
+
+
+
 
     </dependencies>
 
